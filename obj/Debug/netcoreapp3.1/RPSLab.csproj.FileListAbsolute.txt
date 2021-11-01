@@ -1,0 +1,14 @@
+C:\Users\YKunnummal\source\repos\RPSLab\bin\Debug\netcoreapp3.1\RPSLab.exe
+C:\Users\YKunnummal\source\repos\RPSLab\bin\Debug\netcoreapp3.1\RPSLab.deps.json
+C:\Users\YKunnummal\source\repos\RPSLab\bin\Debug\netcoreapp3.1\RPSLab.runtimeconfig.json
+C:\Users\YKunnummal\source\repos\RPSLab\bin\Debug\netcoreapp3.1\RPSLab.runtimeconfig.dev.json
+C:\Users\YKunnummal\source\repos\RPSLab\bin\Debug\netcoreapp3.1\RPSLab.dll
+C:\Users\YKunnummal\source\repos\RPSLab\bin\Debug\netcoreapp3.1\RPSLab.pdb
+C:\Users\YKunnummal\source\repos\RPSLab\obj\Debug\netcoreapp3.1\RPSLab.csproj.AssemblyReference.cache
+C:\Users\YKunnummal\source\repos\RPSLab\obj\Debug\netcoreapp3.1\RPSLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YKunnummal\source\repos\RPSLab\obj\Debug\netcoreapp3.1\RPSLab.AssemblyInfoInputs.cache
+C:\Users\YKunnummal\source\repos\RPSLab\obj\Debug\netcoreapp3.1\RPSLab.AssemblyInfo.cs
+C:\Users\YKunnummal\source\repos\RPSLab\obj\Debug\netcoreapp3.1\RPSLab.csproj.CoreCompileInputs.cache
+C:\Users\YKunnummal\source\repos\RPSLab\obj\Debug\netcoreapp3.1\RPSLab.dll
+C:\Users\YKunnummal\source\repos\RPSLab\obj\Debug\netcoreapp3.1\RPSLab.pdb
+C:\Users\YKunnummal\source\repos\RPSLab\obj\Debug\netcoreapp3.1\RPSLab.genruntimeconfig.cache
